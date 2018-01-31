@@ -1,0 +1,11 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Used and related
+*.bin
+*.hex
+*.eep
